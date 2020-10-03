@@ -1,3 +1,5 @@
+[**Timekeeping can be found here**](docs/timekeep.md)
+
 # Project kisälli
 Project kisälli (working name) is a tool for managing course assistants and workshop times for you university courses.
 
